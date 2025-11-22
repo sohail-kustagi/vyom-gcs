@@ -99,5 +99,18 @@ The video feed uses **PeerJS**.
 - **Backend**: Node.js, Express, Socket.io, node-mavlink
 - **Communication**: UDP (MAVLink), WebSockets (Telemetry), WebRTC (Video)
 
+
+## 🎮 Live Demo Instructions (Try it yourself!)
+
+This system consists of two parts. You can test the live video streaming using your own phone:
+
+1.  **Open Mission Control (Laptop/Desktop):**
+    👉 [http://98.92.19.117](http://98.92.19.117)
+    *(This is the GCS Dashboard)*
+
+2.  **Open Drone Camera (Phone/Second Device):**
+    👉 [http://98.92.19.117/drone.html](http://98.92.19.117/drone.html)
+    *(This acts as the drone. Point your phone camera at your screen to see the feed appear on the dashboard!)*
+
 ---
 *Developed for Senior Internship Project*
